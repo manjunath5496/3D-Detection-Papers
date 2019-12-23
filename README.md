@@ -1,3 +1,6 @@
+<p>The papers in this list are about <strong>Autonomous Vehicles 3D Detection and&nbsp; Semantic Segmentation</strong> especially those using point clouds and in deep learning methods.</p>
+
+
 <ul>
   
  <li><b><a target="_blank" href="https://github.com/manjunath5496/3D-Detection-Papers/blob/master/3dm(1).pdf" style="text-decoration:none;"> FusionNet: 3D Object Classification Using Multiple Data Representations</a></b></li>
