@@ -1,5 +1,6 @@
 <p>The papers in this list are about <strong>Autonomous Vehicles 3D Detection and&nbsp; Semantic Segmentation</strong> especially those using point clouds and in deep learning methods.</p>
-
+<hr>
+</br>
 
 <ul>
   
